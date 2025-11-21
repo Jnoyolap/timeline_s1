@@ -10,11 +10,11 @@ st.title("Timeline con Slider")
 # Reemplaza 'usuario', 'repositorio' y 'branch' con los tuyos
 base_url = "https://github.com/Jnoyolap/timeline_s1/tree/main/timeline_images"
 images = [
-    base_url + "imagen1.jpg",
-    base_url + "imagen2.jpg",
-    base_url + "imagen3.jpg",
-    base_url + "imagen4.jpg",
-    base_url + "imagen5.jpg"
+    base_url + "timeline1.png",
+    base_url + "timeline2.png",
+    base_url + "timeline3.png",
+    base_url + "timeline4.png",
+    base_url + "timeline5.png"
 ]
 
 # Slider con 5 puntos
