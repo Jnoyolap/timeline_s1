@@ -8,7 +8,7 @@ st.title("Timeline con Slider")
 
 # Lista de URLs de las imágenes en GitHub
 # Reemplaza 'usuario', 'repositorio' y 'branch' con los tuyos
-base_url = "https://github.com/Jnoyolap/timeline_s1/tree/main/timeline_images"
+base_url = "https://github.com/Jnoyolap/timeline_s1/main/timeline_images"
 images = [
     base_url + "timeline1.png",
     base_url + "timeline2.png",
